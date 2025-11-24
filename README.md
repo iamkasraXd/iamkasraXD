@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **Pyton And Burp Suite**
 
-- 👯 I’m looking to collaborate on **RedTrace**
+- 💬 Ask me about **Pyton And cybersecurity**
 
-- 🤝 I’m looking for help with **RedStrike**
-
-- 💬 Ask me about **OSCP / Red Team Techniques**
+- 📫 How to reach me **kasrastillplay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
