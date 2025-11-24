@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ShadowGuard**
 
-- 🌱 I’m currently learning **Pyton And Burp Suite**
+- 🌱 I’m currently learning **javascript And Machine Learning**
 
 - 💬 Ask me about **Pyton And cybersecurity**
 
