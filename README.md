@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm kasra</h1>
 <h3 align="center">A passionate full-stack developer from iran</h3>
 
+<img align="right" alt="sheikh python" width = "400" src ="https://th.bing.com/th/id/R.ba6d7d37fa1e4ca966ac7328bf43b96c?rik=79CW1PjYQQpU1A&pid=ImgRaw&r=0">
+
 - 🔭 I’m currently working on **ShadowGuard**
 
 - 🌱 I’m currently learning **Django,Flask,Metasploit,Cobalt Strike,Burp Suite**
