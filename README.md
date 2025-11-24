@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ShadowGuard**
 
-- 🌱 I’m currently learning **Django,Flask,Metasploit,Cobalt Strike,Burp Suite**
+- 🌱 I’m currently learning **Pyton And Burp Suite**
 
 - 👯 I’m looking to collaborate on **RedTrace**
 
